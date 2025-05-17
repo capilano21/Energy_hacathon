@@ -20,6 +20,7 @@ https://huggingface.co/spaces/bluegrey/energy_agentic
 * Ashwin Thyagarajan
 * G Mohan
 * Rajkumar V
+* Naresh Kumar
 
 ---
 
